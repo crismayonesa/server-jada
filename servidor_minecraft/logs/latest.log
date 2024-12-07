@@ -447,3 +447,25 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [07Dec2024 19:48:17.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpapufiedd[/127.161.11.179:47083] logged in with entity id 6478 at (761.5359229784166, 69.0, 256.6624709311417)
 [07Dec2024 19:48:17.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd joined the game
 [07Dec2024 19:48:17.819] [Server thread/INFO] [Jade/]: Syncing config to elpapufiedd (ad2167be-155a-30e1-9bf2-63b39239ecb8)
+[07Dec2024 19:56:27.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elpapufiedd: Unbanned SoyTuTioXD123]
+[07Dec2024 19:58:00.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd has made the advancement [It's an Emu!!!]
+[07Dec2024 19:59:30.131] [Worker-Main-22/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id lootr:lootr_minecart
+[07Dec2024 20:00:07.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd was slain by Fire Dragon
+[07Dec2024 20:00:07.343] [Server thread/INFO] [tombstone/]: The player elpapufiedd has successfully been saved
+[07Dec2024 20:00:22.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd was slain by elpapufiedd
+[07Dec2024 20:00:22.163] [Server thread/INFO] [tombstone/]: The player elpapufiedd has successfully been saved
+[07Dec2024 20:00:33.089] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['elpapufiedd'/10944, l='ServerLevel[world]', x=1136.05, y=63.00, z=205.11] died: elpapufiedd went up in flames
+[07Dec2024 20:00:36.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd was slain by Fire Dragon
+[07Dec2024 20:00:36.725] [Server thread/INFO] [tombstone/]: The player elpapufiedd has successfully been saved
+[07Dec2024 20:00:54.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd was incinerated by Fire Dragon
+[07Dec2024 20:00:54.640] [Server thread/INFO] [tombstone/]: The player elpapufiedd has successfully been saved
+[07Dec2024 20:01:11.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd was slain by elpapufiedd
+[07Dec2024 20:01:11.118] [Server thread/INFO] [tombstone/]: The player elpapufiedd has successfully been saved
+[07Dec2024 20:01:23.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['elpapufiedd'/13204, l='ServerLevel[world]', x=1130.73, y=63.00, z=214.18] died: elpapufiedd burned to death
+[07Dec2024 20:01:23.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['elpapufiedd'/13206, l='ServerLevel[world]', x=1131.40, y=63.00, z=208.60] died: elpapufiedd burned to death
+[07Dec2024 20:01:34.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[07Dec2024 20:01:34.485] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['elpapufiedd'/13205, l='ServerLevel[world]', x=1142.59, y=63.00, z=203.90] died: elpapufiedd was slain by elpapufiedd
+[07Dec2024 20:04:52.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd was slain by Orc with Shield
+[07Dec2024 20:04:52.999] [Server thread/INFO] [tombstone/]: The player elpapufiedd has successfully been saved
+[07Dec2024 20:09:54.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpapufiedd lost connection: Disconnected
+[07Dec2024 20:09:54.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd left the game
