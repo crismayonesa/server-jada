@@ -425,3 +425,10 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [07Dec2024 20:42:49.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd has made the advancement [Amateur Archaeologist]
 [07Dec2024 20:42:50.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd has made the advancement [It Belongs in a Museum]
 [07Dec2024 20:44:20.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elpapufiedd> :blobcatmlem:
+[07Dec2024 20:51:53.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd has made the advancement [Chest Slayer]
+[07Dec2024 20:53:00.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd was slain by Corpse Fly
+[07Dec2024 20:53:00.456] [Server thread/INFO] [tombstone/]: The player elpapufiedd has successfully been saved
+[07Dec2024 20:53:39.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd was slain by Dire Hound Leader
+[07Dec2024 20:53:39.594] [Server thread/INFO] [tombstone/]: The player elpapufiedd has successfully been saved
+[07Dec2024 20:58:20.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd was slain by Corpse Fly
+[07Dec2024 20:58:20.839] [Server thread/INFO] [tombstone/]: The player elpapufiedd has successfully been saved

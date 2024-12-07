@@ -1624,6 +1624,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-07 20:42:18 +0000",
+      "cooked_mutton": "2024-12-07 20:50:01 +0000",
       "baked_potato": "2024-12-07 01:10:56 +0000",
       "apple": "2024-12-06 23:06:40 +0000",
       "pumpkin_pie": "2024-12-06 22:17:47 +0000",
@@ -7084,15 +7085,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/acacia": {
     "criteria": {
       "has_wood": "2024-12-07 20:45:20 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2024-12-07 20:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
     },
     "done": true
   },
@@ -7120,9 +7145,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
     "criteria": {
       "has_mutton": "2024-12-07 20:37:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
     },
     "done": true
   },
@@ -7132,9 +7169,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 20:45:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
     },
     "done": true
   },
@@ -7147,6 +7202,18 @@
   "cfm:recipes/decorations/acacia_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-07 20:45:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
     },
     "done": true
   },
@@ -7186,9 +7253,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 20:45:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
     },
     "done": true
   },
@@ -7207,6 +7298,12 @@
   "cfm:recipes/decorations/stripped_acacia_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-07 20:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-07 20:49:27 +0000"
     },
     "done": true
   },
@@ -7240,9 +7337,39 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 20:45:20 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-07 20:51:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
     },
     "done": true
   },
@@ -7258,6 +7385,24 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-12-07 20:37:21 +0000"
@@ -7270,15 +7415,51 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_table": {
     "criteria": {
       "has_planks": "2024-12-07 20:45:20 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 20:45:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-07 20:49:27 +0000"
     },
     "done": true
   },
@@ -7294,9 +7475,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
     "criteria": {
       "has_wild_armor_trim_smithing_template": "2024-12-07 20:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
     },
     "done": true
   },
@@ -7369,6 +7562,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-07 20:42:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-07 20:55:18 +0000"
     },
     "done": true
   },
