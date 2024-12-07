@@ -435,3 +435,15 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [07Dec2024 19:36:39.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpapufiedd[/127.161.11.179:36273] logged in with entity id 4071 at (758.6741985306113, 63.0, 264.7048678837461)
 [07Dec2024 19:36:39.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd joined the game
 [07Dec2024 19:36:39.194] [Server thread/INFO] [Jade/]: Syncing config to elpapufiedd (ad2167be-155a-30e1-9bf2-63b39239ecb8)
+[07Dec2024 19:44:57.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpapufiedd lost connection: Disconnected
+[07Dec2024 19:44:57.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd left the game
+[07Dec2024 19:45:53.469] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e1b8b81[id=<null>,name=elpapufiedd,properties={},legacy=false] (/127.161.11.179:39429) lost connection: Disconnected
+[07Dec2024 19:45:53.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpapufiedd[/127.161.11.179:34375] logged in with entity id 5957 at (763.4202523237576, 69.0, 254.99252067371353)
+[07Dec2024 19:45:53.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd joined the game
+[07Dec2024 19:45:53.610] [Server thread/INFO] [Jade/]: Syncing config to elpapufiedd (ad2167be-155a-30e1-9bf2-63b39239ecb8)
+[07Dec2024 19:47:53.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpapufiedd lost connection: Timed out
+[07Dec2024 19:47:53.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd left the game
+[07Dec2024 19:47:53.815] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 19:48:17.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpapufiedd[/127.161.11.179:47083] logged in with entity id 6478 at (761.5359229784166, 69.0, 256.6624709311417)
+[07Dec2024 19:48:17.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd joined the game
+[07Dec2024 19:48:17.819] [Server thread/INFO] [Jade/]: Syncing config to elpapufiedd (ad2167be-155a-30e1-9bf2-63b39239ecb8)
