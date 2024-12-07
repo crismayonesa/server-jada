@@ -435,3 +435,5 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [07Dec2024 21:02:28.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd has completed the challenge [The Power of the Sun]
 [07Dec2024 21:02:42.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd was killed trying to hurt Cursed Armor
 [07Dec2024 21:02:42.670] [Server thread/INFO] [tombstone/]: The player elpapufiedd has successfully been saved
+[07Dec2024 21:42:07.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpapufiedd lost connection: Disconnected
+[07Dec2024 21:42:07.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpapufiedd left the game
